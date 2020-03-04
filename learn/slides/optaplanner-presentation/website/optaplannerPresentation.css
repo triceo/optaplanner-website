@@ -86,9 +86,6 @@ footer {
 
 .reveal .watermark p img {
     vertical-align: middle;
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    filter: grayscale(100%);
 }
 
 .positive {
